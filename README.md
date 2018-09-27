@@ -1,3 +1,7 @@
+# TFC
+
+GET THE .ENV ON 1PASSWORD
+
 # Roo — The Chatbot
 This repository contains code for the chatbot side of Roo (for the admin interface code, helloroo.org, go to https://github.com/ideoorg/steps).
 
@@ -93,7 +97,3 @@ If you have an IDEO.org email address you can access the full list [here](https:
 # Dependencies Used
 - Node 9.5.0
 - npm 4.6.1
-
-# TFC
-
-GET THE .ENV ON 1PASSWORD
